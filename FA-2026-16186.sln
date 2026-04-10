@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE3-C", "SE3-C\SE3-C.csproj", "{CC893C0E-7967-4CBF-A4EB-FFBC680C985A}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SE3-P", "SE3-P\SE3-P.pyproj", "{420236DC-0205-4030-86E3-B693836C74D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC893C0E-7967-4CBF-A4EB-FFBC680C985A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC893C0E-7967-4CBF-A4EB-FFBC680C985A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC893C0E-7967-4CBF-A4EB-FFBC680C985A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC893C0E-7967-4CBF-A4EB-FFBC680C985A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420236DC-0205-4030-86E3-B693836C74D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420236DC-0205-4030-86E3-B693836C74D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {342A437A-9039-40DC-8968-9E5493C0B86C}
+	EndGlobalSection
+EndGlobal
