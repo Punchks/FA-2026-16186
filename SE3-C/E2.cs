@@ -10,7 +10,13 @@ namespace SE3_C
     {
         static void Main(string[] args)
         {
+            String n;
+            Console.WriteLine("Ingrese Nombre:");
+            n = Console.ReadLine();
 
+            Console.WriteLine("Tu nombre entre comillas:");
+            Console.WriteLine($"\"{n}\"");
+            Console.WriteLine();
         }
     }
 }
